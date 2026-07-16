@@ -1,0 +1,15 @@
+C:\Work\Training_26\Training_26\bin\Debug\net10.0\Training_26.exe
+C:\Work\Training_26\Training_26\bin\Debug\net10.0\Training_26.deps.json
+C:\Work\Training_26\Training_26\bin\Debug\net10.0\Training_26.runtimeconfig.json
+C:\Work\Training_26\Training_26\bin\Debug\net10.0\Training_26.dll
+C:\Work\Training_26\Training_26\bin\Debug\net10.0\Training_26.pdb
+C:\Work\Training_26\Training_26\obj\Debug\net10.0\Training_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Training_26\Training_26\obj\Debug\net10.0\Training_26.AssemblyInfoInputs.cache
+C:\Work\Training_26\Training_26\obj\Debug\net10.0\Training_26.AssemblyInfo.cs
+C:\Work\Training_26\Training_26\obj\Debug\net10.0\Training_26.csproj.CoreCompileInputs.cache
+C:\Work\Training_26\Training_26\obj\Debug\net10.0\Training_26.sourcelink.json
+C:\Work\Training_26\Training_26\obj\Debug\net10.0\Training_26.dll
+C:\Work\Training_26\Training_26\obj\Debug\net10.0\refint\Training_26.dll
+C:\Work\Training_26\Training_26\obj\Debug\net10.0\Training_26.pdb
+C:\Work\Training_26\Training_26\obj\Debug\net10.0\Training_26.genruntimeconfig.cache
+C:\Work\Training_26\Training_26\obj\Debug\net10.0\ref\Training_26.dll
